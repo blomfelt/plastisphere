@@ -1,0 +1,89 @@
+# Miniforge3 holds the minimal installers for Conda and Mamba specific to
+# conda-forge, with the following features pre-configured:
+#
+# * Packages in the base environment are obtained from the conda-forge channel.
+# * The conda-forge channel is set as the default (and only) channel.
+#
+# The container is based on a minimal Ubuntu installation that includes
+# conda-forges miniforge3 installer pre-installed at /opt/conda. The tags of
+# the images are in line with the official miniforge release tags.
+# 
+# The code used for building the image can be found at
+# https://github.com/conda-forge/miniforge-images
+#
+Bootstrap: docker
+From: quay.io/condaforge/miniforge3:24.11.3-0
+
+%environment
+    #
+    # Register Tini as a child subreaper to silence the error:
+    #
+    #   [WARN  tini (72068)] Tini is not running as PID 1 and isnt registered as a child subreaper.
+    #
+    export TINI_SUBREAPER=true
+
+%files
+    #~/bin/mumame /usr/local/bin
+    #~/bin/mumame_build /usr/local/bin 
+    #~/bin/usearch /usr/local/bin
+    environment.yml
+
+%test
+    conda --version
+    #conda list
+    usearch
+    mumame -h
+
+%post
+  export DEBIAN_FRONTEND=noninteractive
+  # Update OS and install packages
+  apt-get update 
+  apt-get install -y \
+    git=1:2.25.1-1ubuntu3.13 \
+    wget=1.20.3-1ubuntu2.1\
+    curl
+
+  # Download rest in conda: ?
+  #  fastqc=0.11.9+dfsg-2
+    #cutadapt=4.2-1build1 \
+    #python3.11=3.11.6-3 \
+    #python3 \
+    #unused: python3-pip=23.2+dfsg-1ubuntu0.1 \
+    #unused: original-awk=2022-09-12-1 \
+    #unused: zlib1g-dev=1:1.2.13.dfsg-1ubuntu5 \
+    #unused: mafft=7.505-1 \
+    #unused: hmmer=3.3.2+dfsg-1 \
+    #unused: autoconf=2.71-3 \
+    #unused: prodigal=1:2.6.3-6
+
+  apt-get clean
+
+    # Install Usearch 
+    mkdir Usearch
+    cd Usearch
+    wget http://drive5.com/downloads/usearch11.0.667_i86linux32.gz
+    mv usearch*.gz usearch.gz
+    gunzip usearch.gz
+    chmod +x usearch
+    cd ..
+
+    # Install MuMaMe
+    wget https://microbiology.se/sw/mumame_1.0b.tar.gz
+    tar xvzf mumame_1.0b.tar.gz --no-same-owner
+    mv MuMaMe_1.0b Mumame
+
+    # Install Nextflow 
+    #mkdir Nextflow
+    #cd Nextflow
+    #wget -qO- https://get.nextflow.io | bash
+    #chmod +x nextflow
+    #cd ..
+
+    # Install programs using conda
+    /opt/conda/bin/conda env update --name base --file environment.yml --prune
+    #/opt/conda/bin/conda install -y --file requirements.txt
+    #/opt/conda/bin/conda install -y \
+    #    multiqc=1.27.1
+%environment
+    export PATH=/Usearch/:$PATH
+    export PATH=/Mumame/:$PATH
