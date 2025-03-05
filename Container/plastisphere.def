@@ -39,9 +39,13 @@ From: quay.io/condaforge/miniforge3:24.11.3-0
   # Update OS and install packages
   apt-get update 
   apt-get install -y \
-    git=1:2.25.1-1ubuntu3.13 \
-    wget=1.20.3-1ubuntu2.1\
-    curl
+    git \
+    wget \
+    curl \
+    r-base
+
+#git=1:2.25.1-1ubuntu3.13 \
+#wget=1.20.3-1ubuntu2.1\
 
   # Download rest in conda: ?
   #  fastqc=0.11.9+dfsg-2
