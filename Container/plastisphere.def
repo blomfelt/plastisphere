@@ -65,9 +65,8 @@ From: quay.io/condaforge/miniforge3:24.11.3-0
     # Install Usearch 
     mkdir Usearch
     cd Usearch
-    wget http://drive5.com/downloads/usearch11.0.667_i86linux32.gz
-    mv usearch*.gz usearch.gz
-    gunzip usearch.gz
+    wget https://github.com/rcedgar/usearch_old_binaries/raw/refs/heads/main/bin/usearch11.0.667_i86linux64
+    mv usearch* usearch
     chmod +x usearch
     cd ..
 
