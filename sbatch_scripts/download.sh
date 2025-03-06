@@ -7,8 +7,8 @@
 #SBATCH --mail-user=blfelix@student.chalmers.se
 #SBATCH --mail-type=ALL
 # Set the names for the error and output files
-#SBATCH --error=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.err
-#SBATCH --output=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.out
+#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.err
+#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.out
 
 
 ###
@@ -30,7 +30,7 @@
 
 ### Set parameters
 # Working directory, where the downloaded files will be stored
-WORKDIR=/cephyr/NOBACKUP/groups/jbp/felix/data_fastq;
+WORKDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/data_fastq;
 
 # Temp files directory variable
 WORKING_TMP=$TMPDIR/DOWNLOAD_TMP;
@@ -45,7 +45,7 @@ module purge
 mkdir $WORKING_TMP;
 cd $WORKING_TMP;
 # Copy in the input
-cp /cephyr/NOBACKUP/groups/jbp/felix/$inputFile $WORKING_TMP 
+cp /cephyr/NOBACKUP/groups/jbp-mv-waters/felix/$inputFile $WORKING_TMP 
 
 ### Script start
 # Total files to download

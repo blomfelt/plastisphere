@@ -7,8 +7,8 @@
 #SBATCH --mail-user=blfelix@student.chalmers.se
 #SBATCH --mail-type=ALL
 # Set the names for the error and output files
-#SBATCH --error=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.err
-#SBATCH --output=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.out
+#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.err
+#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.out
 
 
 ###
@@ -31,7 +31,7 @@
 
 ### Set parameters
 # Working directory
-WORKDIR=/cephyr/NOBACKUP/groups/jbp/felix/data_fastq;
+WORKDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/data_fastq;
 
 # Location of the container
 CONTAINER_LOC=/cephyr/users/blfelix/Vera/thesis/plastisphere.sif;
@@ -51,7 +51,7 @@ mkdir $WORKING_TMP;
 cd $WORKING_TMP;
 # Copy relevant files to $TMPDIR
 # First fastQC:
-cp /cephyr/NOBACKUP/groups/jbp/felix/$inputFile $WORKING_TMP 
+cp /cephyr/NOBACKUP/groups/jbp-mv-waters/felix/$inputFile $WORKING_TMP 
 # Second fastQC, after trimming:
 #cp /cephyr/NOBACKUP/groups/bbt045_2024/project_group1/results/trimmomatic/*.fastq.gz $WORKING_TMP
 

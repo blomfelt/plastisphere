@@ -7,8 +7,8 @@
 #SBATCH --mail-user=blfelix@student.chalmers.se
 #SBATCH --mail-type=ALL
 # Set the names for the error and output files
-#SBATCH --error=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.err
-#SBATCH --output=/cephyr/NOBACKUP/groups/jbp/felix/logs/job.%J.out
+#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.err
+#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/job.%J.out
 
 ###
 #
@@ -29,10 +29,10 @@
 NUM_THREADS=6
 
 # Input directory
-INDIR=/cephyr/NOBACKUP/groups/jbp/felix/data_fastq;
+INDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/data_fastq;
 
 # Output directory
-OUTDIR=/cephyr/NOBACKUP/groups/jbp/felix/fastqc;
+OUTDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/fastqc;
 
 # Location of the container
 CONTAINER_LOC=/cephyr/users/blfelix/Vera/thesis/plastisphere.sif;
