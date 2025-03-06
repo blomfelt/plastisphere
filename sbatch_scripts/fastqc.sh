@@ -35,7 +35,7 @@ INDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/data_fastq;
 OUTDIR=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/fastqc;
 
 # Location of the container
-CONTAINER_LOC=/cephyr/users/blfelix/Vera/thesis/plastisphere.sif;
+CONTAINER_LOC=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/Container/plastisphere.sif;
 
 # Temp files directory variable
 WORKING_TMP=$TMPDIR/FASTQC_TMP;
