@@ -1,0 +1,17 @@
+# Database files
+mobileOG*
+card-data*/
+
+# Large data files
+Data/
+data_fastq/
+storeDir/
+
+# Large container files, reproducible from the .def-file
+*.sif
+
+# Pipeline 1, need to hide?
+Pipeline_1/
+
+# Log files
+logs/
