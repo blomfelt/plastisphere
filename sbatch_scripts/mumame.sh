@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 
-# SBATCH -A C3SE2025-1-11 -p vera
-# SBATCH -n 10
-# SBATCH -t 10:00:00
-# SBATCH -J mumame 
-# SBATCH --mail-user=blfelix@student.chalmers.se
-# SBATCH --mail-type=ALL
-# Set the names for the error and output files
-# SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.err
-# SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.out
+#SBATCH -A C3SE2025-1-11 -p vera
+#SBATCH -n 10
+#SBATCH -t 10:00:00
+#SBATCH -J mumame 
+#SBATCH --mail-user=blfelix@student.chalmers.se
+#SBATCH --mail-type=ALL
+#Set the names for the error and output files
+#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.err
+#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.out
 
-# ##
+###
 #
 # Date: 2025.03.04
 # Author: Felix Blomfelt
@@ -25,7 +25,7 @@
 # Usage: 
 # sbatch mumame.sh
 #
-# ##
+###
 
 
 ### Set parameters
