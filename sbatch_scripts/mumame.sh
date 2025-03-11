@@ -7,8 +7,8 @@
 #SBATCH --mail-user=blfelix@student.chalmers.se
 #SBATCH --mail-type=ALL
 #Set the names for the error and output files
-#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.err
-#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/test_mumame.%J.out
+#SBATCH --error=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/mumame.%J.err
+#SBATCH --output=/cephyr/NOBACKUP/groups/jbp-mv-waters/felix/logs/mumame.%J.out
 
 ###
 #
