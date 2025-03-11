@@ -50,14 +50,23 @@ module purge
 # create a temporary directory to store output files
 mkdir $WORKING_TMP;
 cd $WORKING_TMP;
+
+#Create neccesary files if not present, so it doesn't complain 
+#touch $OUTDIR/mapping_results.per-mutation.txt
+#touch $OUTDIR/mapping_results.table.txt
+
 # Copy relevant files to $TMPDIR
 cp $DATADIR/mutation_database* $WORKING_TMP 
-# Total size approx 63 Gb, needs at least 5 cores for TMPDIR (845 Gb for 64 c)
-cp $INDIR/SRR1406*val_1.fq.gz $WORKING_TMP
+#cp $OUTDIR/mapping_results.per-mutation.txt $WORKING_TMP 
+#cp $OUTDIR/mapping_results.table.txt $WORKING_TMP 
+# Choose filename
+FILENAME=$1
+# Total size approx 25 Gb, needs at least ? cores for TMPDIR (845 Gb for 64 c)
+cp $INDIR/$FILENAME*.fq.gz $WORKING_TMP
 # DON'T FORGET TO CHANGE LOG NAME AND CORES ABOVE
 
 # Run mumame 
-apptainer exec $CONTAINER_LOC mumame -i *_1_val_1.fq.gz -d "mutation_database_3.1.4" -o "mapping_results_3.4"
+apptainer exec $CONTAINER_LOC mumame -i *.fq.gz -d "mutation_database_3.4" -o "mapping_results_$FILENAME"
 #apptainer exec $CONTAINER_LOC mumame -i "$INDIR/*val_1.fq.gz" -d mutation_database_3.4 -o "mapping_results"
 
 ### Copy all files back

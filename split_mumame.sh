@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+###
+#
+# Date: 2025.03.11
+# Author: Felix Blomfelt
+#
+# Description: 
+# This script takes in beginning_filenames.txt, where each line is the 
+# beginning of the filenames which will be sent to mumame.sh.
+# This is done in order to be able to run several jobs in parallel, each unique
+# and not too large for the cores used. 
+#
+# Usage: 
+# split_mumame.sh
+#
+###
+for files in $(cat beginning_filenames.txt)
+do
+   sbatch sbatch_scripts/mumame.sh $files
+done
