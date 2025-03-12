@@ -15,3 +15,9 @@ Pipeline_1/
 
 # Log files
 logs/
+
+# Some of mumame output, all except *table.txt and *per-mutation.txt
+*.0.95.list.txt
+*.0.95.list.txt.count
+*.0.95.mapping.txt
+*.0.95.usearch
