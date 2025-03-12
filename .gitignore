@@ -1,2 +1,17 @@
 # Draft documents
 Draft*
+*_done/
+Private/
+Mumame_test/
+test_*/
+
+# Large container files, reproducible from the .def-file
+*.sif
+
+# The card database, 
+# available at https://card.mcmaster.ca/download/0/broadstreet-v4.0.0.tar.bz2
+card-data/
+
+# MuMaMe, available at https://microbiology.se/software/mumame/, 
+# Also present in the container.
+MuMaMe_1.0b/
