@@ -5,4 +5,3 @@ channels:
 dependencies:
 - fastqc=0.12.1
 - multiqc=1.27.1
-- sra-tools=3.2.0
