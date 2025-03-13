@@ -66,7 +66,7 @@ cp $INDIR/$FILENAME*.fq.gz $WORKING_TMP
 # DON'T FORGET TO CHANGE LOG NAME AND CORES ABOVE
 
 # Run mumame 
-apptainer exec $CONTAINER_LOC mumame -i *.fq.gz -d "mutation_database_3.4" -o "mapping_results_$FILENAME"
+apptainer exec $CONTAINER_LOC mumame -i *.fq.gz -d "mutation_database" -o "mapping_results_$FILENAME"
 #apptainer exec $CONTAINER_LOC mumame -i "$INDIR/*val_1.fq.gz" -d mutation_database_3.4 -o "mapping_results"
 
 ### Copy all files back
