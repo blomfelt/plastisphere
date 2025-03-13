@@ -2,7 +2,7 @@
 
 #SBATCH -A C3SE2025-1-11 -p vera
 #SBATCH -n 10
-#SBATCH -t 10:00:00
+#SBATCH -t 20:00:00
 #SBATCH -J mumame 
 #SBATCH --mail-user=blfelix@student.chalmers.se
 #SBATCH --mail-type=ALL
