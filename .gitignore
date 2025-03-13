@@ -1,6 +1,7 @@
 # Database files
 mobileOG*
 card-data*/
+Mumame_database/
 
 # Large data files
 Data/
