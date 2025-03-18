@@ -1,0 +1,157 @@
+Accession	SRR14061752_1_val-Mut	SRR14061752_2_val-Mut	SRR14061753_1_val-Mut	SRR14061753_2_val-Mut	SRR14061754_1_val-Mut	SRR14061754_2_val-Mut	SRR14061755_1_val-Mut	SRR14061755_2_val-Mut	SRR14061756_1_val-Mut	SRR14061756_2_val-Mut	SRR14061757_1_val-Mut	SRR14061757_2_val-Mut	SRR14061758_1_val-Mut	SRR14061758_2_val-Mut	SRR14061759_1_val-Mut	SRR14061759_2_val-Mut	SRR14061760_1_val-Mut	SRR14061760_2_val-Mut	SRR14061752_1_val-WT	SRR14061752_2_val-WT	SRR14061753_1_val-WT	SRR14061753_2_val-WT	SRR14061754_1_val-WT	SRR14061754_2_val-WT	SRR14061755_1_val-WT	SRR14061755_2_val-WT	SRR14061756_1_val-WT	SRR14061756_2_val-WT	SRR14061757_1_val-WT	SRR14061757_2_val-WT	SRR14061758_1_val-WT	SRR14061758_2_val-WT	SRR14061759_1_val-WT	SRR14061759_2_val-WT	SRR14061760_1_val-WT	SRR14061760_2_val-WT
+A109T:Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	4	1	4	1	2	1	0	3	3	2	1	0	0	1	1	1	1	2
+A375T:Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	16	12	17	17	17	12	7	2	11	13	12	5	7	7	6	4	12	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A376T:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+A376V:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+A381V:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	1	0	2	0	1	0	1	0	1	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+A473V:Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	8	10	9	6	14	7	11	6	13	1	9	5	6	7	14	7	9	7
+A67S:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+D87G:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+D87V:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+D87Y:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+A67T:Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	3	2	1	3	2	4	2	1	2	0	3	2	1	1
+V90I:Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	3	2	1	3	2	4	2	1	2	0	3	2	1	1
+A85T:Shigella flexneri parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	48	51	58	40	56	40	13	15	11	14	24	19	36	13	30	21	20	18
+D244Y:Clostridioides difficile rpoC with mutation conferring resistance to vancomycin	1	0	1	0	0	1	5	1	0	1	0	1	1	2	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+D409N:Clostridioides difficile gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+V423F:Clostridioides difficile gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K444F:Clostridioides difficile gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+D476N:Escherichia coli parE conferring resistance to fluoroquinolones	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	2	9	10	4	6	7	0	0	1	1	0	2	1	2	0	2	0	0
+D95G:Mycobacterium avium gyrA with mutation conferring resistance to fluoroquinolone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0
+E350Q:Escherichia coli UhpT with mutation conferring resistance to fosfomycin	2	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+F413L:Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+G124S:Bartonella bacilliformis gyrB conferring resistance to aminocoumarin	3	1	3	4	0	2	3	1	4	4	3	6	4	3	3	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+G316D:Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+G442E:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+G81D:Burkholderia dolosa gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	117	88	134	105	109	101	90	66	89	86	81	86	116	91	118	86	107	97
+H502L:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+H80P:Shigella flexneri gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	15	22	11	25	13	17	3	5	1	5	9	6	11	13	3	7	19	2
+I1106T:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+I548M:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+K450N:Neisseria gonorrhoeae gyrB conferring resistance to zoliflodacin	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	34	37	25	32	22	28	11	12	15	8	15	12	13	9	10	10	28	12
+L121Q:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+Q125R:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+L297F:Escherichia coli GlpT with mutation conferring resistance to fosfomycin	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	7	15	6	4	6	0	0	2	1	2	1	1	0	0	3	0	2
+L443S:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+L449M:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+M159T:Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	11	12	5	12	7	3	0	4	0	0	2	3	0	5	2	1	0
+M1S:Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+M437I:Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	1	1	1	0	0	1	1	1	1	3	0	0	0	1	1	0	1	3	8	10	9	6	14	7	11	6	13	1	9	5	6	7	14	7	9	7
+N416S:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+G433S:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+K445R:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+N437H:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+N437Y:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+P434L:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+Q1073R:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	89	76	84	100	117	78	111	82	98	82	103	90	109	102	103	101	124	71	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+Q124K:Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	2	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q125K:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+Q513P:Escherichia coli rpoB mutants conferring resistance to rifampicin	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+L533P:Escherichia coli rpoB mutants conferring resistance to rifampicin	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+R231C:Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	18	21	32	19	24	28	5	1	2	2	7	5	4	5	4	0	10	1	20	20	28	24	32	26	5	3	5	5	9	10	9	3	8	5	11	10
+R234F:Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	18	21	32	19	24	28	5	1	2	2	7	5	4	5	4	0	10	1	20	20	28	24	32	26	5	3	5	5	9	10	9	3	8	5	11	10
+R334C:Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	20	28	24	32	26	5	3	5	5	9	10	9	3	8	5	11	10
+R529C:Escherichia coli rpoB mutants conferring resistance to rifampicin	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+R529S:Escherichia coli rpoB mutants conferring resistance to rifampicin	1	0	0	4	1	0	0	0	0	0	0	1	0	0	1	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+S140N:Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	4	1	4	1	2	1	0	3	3	2	1	0	0	1	1	1	1	2
+S441A:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	1	3	1	2	1	1	0	2	4	4	4	3	4	2	1	5	2	3	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+S463A:Morganella morganii gyrB conferring resistance to fluoroquinolones	3	2	5	1	1	5	0	1	0	2	0	1	1	0	0	1	2	0	33	12	38	31	40	35	5	6	8	8	7	8	13	12	9	8	8	10
+S498T:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+H502N:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+S522L:Vibrio vulnificus rpoB mutants conferring resistance to rifampin	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	16	17	30	34	9	7	12	16	9	14	11	10	3	12	13	21	10
+S622A:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+S80I:Escherichia coli parC conferring resistance to fluoroquinolones	3	5	2	3	2	4	0	0	0	0	1	0	0	0	0	1	0	0	82	75	77	79	85	88	26	30	30	30	35	32	22	25	25	33	51	42
+S80L:Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolones	0	5	0	1	4	1	2	2	5	0	1	4	2	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+S83I:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+S84F:Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	9	11	5	6	11	3	5	7	10	7	6	5	4	10	5	6	7	6
+S84L:Acinetobacter baumannii parC conferring resistance to fluoroquinolones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	12	14	6	10	14	13	4	0	3	6	5	6	3	0	3	3	1
+D105E:Acinetobacter baumannii parC conferring resistance to fluoroquinolones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	12	14	6	10	14	13	4	0	3	6	5	6	3	0	3	3	1
+S91F:Neisseria gonorrhoeae gyrA with mutations conferring resistance to fluoroquinolones	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	2	0	0	49	39	60	33	50	49	62	39	49	49	44	38	50	45	43	38	43	59
+T444P:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+T563P:Escherichia coli rpoB mutants conferring resistance to rifampicin	0	2	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+V104I:Acinetobacter baumannii parC conferring resistance to fluoroquinolones	0	0	1	0	1	0	1	1	0	0	0	1	0	0	0	0	1	0	14	12	14	6	10	14	13	4	0	3	6	5	6	3	0	3	3	1
+V431M:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+F452S:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+V517L:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+Y61Y:Mycobacterium tuberculosis rpoC mutations confer resistance to rifampicin	0	1	1	5	0	2	1	3	5	2	3	1	2	5	3	4	2	1	422	410	420	389	425	418	395	404	394	408	478	411	461	428	426	437	463	513
+Wildtype:Acinetobacter baumannii gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	5	3	0	5	0	2	0	3	1	2	1	1	2	4	2	3
+Wildtype:Acinetobacter baumannii parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	12	14	6	10	14	13	4	0	3	6	5	6	3	0	3	3	1
+Wildtype:Bacillus subtilis rpoB mutants conferring resistance to rifampin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	17	17	15	11	16	11	6	6	10	12	7	12	8	5	9	7	11
+Wildtype:Burkholderia dolosa gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	117	88	134	105	109	101	90	66	89	86	81	86	116	91	118	86	107	97
+Wildtype:Capnocytophaga gingivalis gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	1	0	0	1	0
+Wildtype:Clostridioides difficile EF-Tu mutants conferring resistance to elfamycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Clostridioides difficile gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	41	66	49	63	47	66	64	80	67	77	79	84	90	75	93	73	95
+Wildtype:Enterobacter aerogenes acrR with mutation conferring multidrug antibiotic resistance	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Wildtype:Erysipelothrix rhusiopathiae gyrA with mutation conferring resistance to enrofloxacin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	0	0	1	0	0	1	0	0	0	0	0
+Wildtype:Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	20	28	24	32	26	5	3	5	5	9	10	9	3	8	5	11	10
+Wildtype:Escherichia coli EF-Tu mutants conferring resistance to kirromycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	427	408	423	406	458	455	216	204	212	201	269	225	217	213	184	205	273	248
+Wildtype:Escherichia coli GlpT with mutation conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	7	15	6	4	6	0	0	2	1	2	1	1	0	0	3	0	2
+Wildtype:Escherichia coli PtsI with mutation conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	2	7	0	0	1	0	0	2	1	0	0	0	2	0	0	3
+Wildtype:Escherichia coli UhpT with mutation conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Wildtype:Escherichia coli fabG mutations conferring resistance to triclosan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	2	6	7	5	1	1	0	0	1	2	0	3	2	1	2	6
+Wildtype:Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	11	12	5	12	7	3	0	4	0	0	2	3	0	5	2	1	0
+Wildtype:Escherichia coli folP with mutation conferring resistance to sulfonamides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Escherichia coli gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	31	29	39	36	31	12	13	22	24	21	11	21	7	13	12	12	23
+Wildtype:Escherichia coli gyrB conferring resistance to aminocoumarin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Escherichia coli murA with mutation conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	8	18	10	15	7	8	4	3	1	14	4	9	7	4	6	2	3
+Wildtype:Escherichia coli parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	82	75	77	79	85	88	26	30	30	30	35	32	22	25	25	33	51	42
+Wildtype:Escherichia coli parE conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	9	10	4	6	7	0	0	1	1	0	2	1	2	0	2	0	0
+Wildtype:Escherichia coli rpoB mutants conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	710	661	808	683	834	735	614	491	670	534	682	613	630	573	628	566	692	620
+Wildtype:Escherichia coli uhpA with mutation conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	2	1	0	1
+Wildtype:Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	11	5	6	11	3	5	7	10	7	6	5	4	10	5	6	7	6
+Wildtype:Helicobacter pylori gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Wildtype:Helicobacter pylori rpoB mutation conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Klebsiella aerogenes Omp36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0
+Wildtype:Klebsiella mutant PhoP conferring antibiotic resistance to colistin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0
+Wildtype:Klebsiella pneumoniae PBP3 mutants conferring resistance to ceftazidime-avibactam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	3	2	3	2	2	1	0	0	0	0	0	0	0	0	1	0
+Wildtype:Klebsiella pneumoniae lamB with mutations conferring resistance to ceftazidime-avibactam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	4	5	4	7	3	0	0	1	3	3	2	8	2	2	2	1	0
+Wildtype:Klebsiella pneumoniae mutant PhoQ conferring resistance to colistin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	0	0	0	0	0	0	0	0	0	2	2	0	0
+Wildtype:Klebsiella pneumoniae ramR mutants	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+Wildtype:Morganella morganii gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	12	38	31	40	35	5	6	8	8	7	8	13	12	9	8	8	10
+Wildtype:Mycobacterium abscessus atpE with mutation conferring resistance to bedaquiline	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	3	0	0	0
+Wildtype:Mycobacterium avium gyrA with mutation conferring resistance to fluoroquinolone	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0
+Wildtype:Mycobacterium leprae gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium leprae gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	3	1	0	0	1	0	1	2	0	0	0	0	0	1	0
+Wildtype:Mycobacterium leprae rpoB mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	1	1	1	0	0
+Wildtype:Mycobacterium tuberculosis atpE with mutation conferring resistance to bedaquiline	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis clpC1 with mutation conferring resistance to pyrazinamide	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	2	0	3	0	6	5	4	1	6	3	5	5	3	4
+Wildtype:Mycobacterium tuberculosis embB mutant conferring resistance to ethambutol	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis embC mutant conferring resistance to ethambutol	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	3	0	1	1	2	0	0	0	0	0	0	0	1
+Wildtype:Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Wildtype:Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	1	0
+Wildtype:Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+Wildtype:Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	4	1	2	1	0	3	3	2	1	0	0	1	1	1	1	2
+Wildtype:Mycobacterium tuberculosis mshA mutations conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis rpoA mutations confer resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	1	0	2	0	0	0
+Wildtype:Mycobacterium tuberculosis rpoB with mutations conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	5	1	9	4	6	7	3	6	8	11	9	5	9	11	6	3
+Wildtype:Mycobacterium tuberculosis rpsA mutations conferring resistance to pyrazinamide	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	1	1	0	2	0	2	0	0	0	0	0	0
+Wildtype:Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	1	2	4	3	5	5	2	1	2	4	2	3	5
+Wildtype:Mycobacterium tuberculosis thyA with mutation conferring resistance to para-aminosalicylic acid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	6	5	2	4	1	1	0	0	0	1	0	0	4	0	1	1
+Wildtype:Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Wildtype:Neisseria gonorrhoeae gyrA with mutations conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	39	60	33	50	49	62	39	49	49	44	38	50	45	43	38	43	59
+Wildtype:Neisseria gonorrhoeae gyrB conferring resistance to zoliflodacin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	37	25	32	22	28	11	12	15	8	15	12	13	9	10	10	28	12
+Wildtype:Neisseria gonorrhoeae parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	4	4	2	4	3	0	2	0	0	2	4	1	3	0	0	0	0
+Wildtype:Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	31	66	43	44	51	28	25	26	27	40	46	25	47	23	18	59	55
+Wildtype:Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	10	9	6	14	7	11	6	13	1	9	5	6	7	14	7	9	7
+Wildtype:Pseudomonas mutant PhoP conferring resistance to colistin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	1
+Wildtype:Salmonella enterica gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	7	10	7	12	12	5	5	2	7	2	3	6	8	0	6	4	8
+Wildtype:Salmonella enterica parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	59	62	64	57	46	18	21	19	20	24	20	19	24	7	10	23	24
+Wildtype:Salmonella enterica soxR with mutation conferring antibiotic resistance	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Wildtype:Salmonella isangi gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	20	10	16	26	16	10	6	5	3	7	5	7	5	0	6	8	8
+Wildtype:Salmonella serovars gyrB conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	16	22	20	26	18	5	9	7	4	1	4	9	4	6	10	4	6
+Wildtype:Salmonella serovars parE conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	7	8	9	8	9	0	0	1	1	7	1	1	0	0	0	2	5
+Wildtype:Shigella flexneri gyrA conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	22	11	25	13	17	3	5	1	5	9	6	11	13	3	7	19	2
+Wildtype:Shigella flexneri parC conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	51	58	40	56	40	13	15	11	14	24	19	36	13	30	21	20	18
+Wildtype:Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	3	2	1	3	2	4	2	1	2	0	3	2	1	1
+Wildtype:Staphylococcus aureus parE conferring resistance to fluoroquinolones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1
+Wildtype:Staphylococcus aureus rpoB mutants conferring resistance to daptomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	28	23	25	19	25	12	13	15	9	6	4	14	12	7	12	20	15
+Wildtype:Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	1	1	0	1	2	3	5	4	3	0	4	2	2	2
+Wildtype:Staphylococcus aureus rpoC conferring resistance to daptomycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	1	0	1	0	0	1	0	0	0
+Wildtype:Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+Wildtype:Vibrio vulnificus rpoB mutants conferring resistance to rifampin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	16	17	30	34	9	7	12	16	9	14	11	10	3	12	13	21	10
+TOTAL READS:	51111502	51111502	51863456	51863456	53348013	53348013	51937824	51937824	51881494	51881494	51688570	51688570	53039741	53039741	51149645	51149645	52006542	52006542	51111502	51111502	51863456	51863456	53348013	53348013	51937824	51937824	51881494	51881494	51688570	51688570	53039741	53039741	51149645	51149645	52006542	52006542
