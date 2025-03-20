@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Time 
-TIME="01:00:00"			# Set the time you need to run Jupyter Lab
+TIME="02:00:00"			# Set the time you need to run Jupyter Lab
 
 ml purge
 
