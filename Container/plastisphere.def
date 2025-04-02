@@ -71,7 +71,10 @@ From: quay.io/condaforge/miniforge3:24.11.3-0
         jupyterlab \
         r-irkernel \
         r-tidyverse \
-        r-ggthemes
+        r-ggthemes \
+        r-ggsignif \
+        r-microeco \
+        bioconductor-aldex2
 
 %environment
     export PATH=/Usearch/:$PATH
