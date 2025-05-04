@@ -22,3 +22,9 @@ logs/
 *.0.95.list.txt.count
 *.0.95.mapping.txt
 *.0.95.usearch
+
+# Figures
+*.png
+
+# Jupyter files
+.ipynb_checkpoints/
